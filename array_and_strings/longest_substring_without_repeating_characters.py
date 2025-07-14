@@ -25,7 +25,7 @@
 # s consists of English letters, digits, symbols and spaces.
 
 ===========================================================================================================================================
-SOLUTION 1: Time Complexity = O(n²) | Space Complexity = O(1)
+SOLUTION 1: Time Complexity = O(n) | Space Complexity = O(n)
 ---------------------------------------------------------------
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
